@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sourav</h1>
+- 🌱 I’m currently learning **Frontend Web devlopment*
 
-<!--
-**Bipula06/Bipula06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **singhbipula6@GMAIL.COM**
 
-Here are some ideas to get you started:
+- 📄 Know about my experiences []()
+  
+- 🛠️ Skills: Languages: Python, Java
+Frontend: HTML, CSS, JavaScript
+Libraries: Matplotlib, Pandas, NumPy, Scikit-learn
+Database: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
