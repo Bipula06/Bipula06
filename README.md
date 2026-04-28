@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences []()
   
-- 🛠️ Skills: Languages: Python, Java
+- 🛠️ Skills: Languages: Python, Java,
 Frontend: HTML, CSS, JavaScript
 Libraries: Matplotlib, Pandas, NumPy, Scikit-learn
 Database: MySQL
